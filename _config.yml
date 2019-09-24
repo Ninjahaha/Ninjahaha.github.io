@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: b034be535417d7ae5745                            #生成的clientID
   clientSecret: 173b24d3628eafb07a1c689c2efa054f39f4f33c    #生成的clientSecret
-  repo: ninjahaha.github.io    #仓库名称
+  repo: Ninjahaha.github.io    #仓库名称
   owner: Ninjahaha    #github用户名
   admin: Ninjahaha
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
